@@ -1,0 +1,30 @@
+.Badges_list-cards {
+  background: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+  margin-bottom: 15px;
+  border-radius: 7px 7px 7px 7px;
+  display: flex;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+.Badges_avatar {
+  width: 80px;
+  border-radius: 50%;
+  margin-left: 2rem;
+}
+.Badges_list-data {
+  margin-left: 3rem;
+}
+.Badges_list-data p {
+  margin: 0;
+}
+.Badge_fullName {
+  font-weight: bold;
+}
+.Badge_jobTitle {
+  font-weight: normal;
+}
+.Badge_twitter {
+  color: #026fff;
+}

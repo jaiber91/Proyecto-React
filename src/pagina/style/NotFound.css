@@ -1,0 +1,13 @@
+.Notfound {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding: 2rem 0;
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+}
+.NotFound_img {
+  width: 50%;
+}
